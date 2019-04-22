@@ -1,6 +1,6 @@
-# task_monitor_flutter
+# Task Monitor Flutter
 
-A new Flutter project.
+A new Flutter project for Task Monitor Project.
 
 ## Getting Started
 
